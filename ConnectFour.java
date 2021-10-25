@@ -28,6 +28,7 @@ public class ConnectFour {
         initializeBoard(board);
         printBoard(board);
 
+        // assign player's roles
         System.out.println("Player 1: x");
         System.out.println("Player 2: o");
 
